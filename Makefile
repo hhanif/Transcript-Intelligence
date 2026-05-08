@@ -5,7 +5,7 @@ PYTHON ?= python3
 all: prepare-data analyze
 
 prepare-data:
-	@if [ -d /dataset ]; then \
+	@if [ -d dataset ]; then \
 		$(PYTHON) scripts/prepare_real_data.py; \
 	elif [ -f data/raw/transcripts.csv ]; then \
 		echo "Using provided data/raw/transcripts.csv"; \
@@ -24,7 +24,6 @@ profile: prepare-data
 
 analyze:
 	$(PYTHON) src/pipeline.py
-
 
 clean:
 	rm -f data/raw/transcripts.csv data/processed/*.csv data/processed/*.json figures/*.svg docs/executive_summary.md

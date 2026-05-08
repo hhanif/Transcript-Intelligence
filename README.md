@@ -1,12 +1,10 @@
 # Transcript Intelligence
 
-This repository is a compact, reviewable solution for Transcript Intelligence. It includes:
-
 - A transcript processing pipeline that categorizes transcripts by topic/theme.
 - Sentiment analysis across support, external, and internal call types.
 - Additional stakeholder insight ideas, implemented lightweight signals, and a classification review queue.
 
-This repo includes a preparation step that converts the provided dataset of 100 meeting-level JSON bundles into `data/raw/transcripts.csv` with transcript text, title, summary topics, key moments, participant metadata, inferred call type, and provided sentiment metadata.
+The provided dataset is a folder of 100 meeting-level JSON bundles. This repo includes a preparation step that converts those bundles into `data/raw/transcripts.csv` with transcript text, title, summary topics, key moments, participant metadata, inferred call type, and provided sentiment metadata. Set `RUBRIK_DATASET_DIR=/path/to/dataset` if the JSON bundles live somewhere else.
 
 ## Quick Start
 
@@ -14,7 +12,7 @@ This repo includes a preparation step that converts the provided dataset of 100 
 make all
 ```
 
-That command prepares the real JSON dataset, runs the analysis, and renders the presentation deck svg's. If the JSON dataset is unavailable, the project can still generate transparent synthetic demo data with `make demo-data`.
+That command prepares the real JSON dataset, runs the analysis, and renders the presentation deck. If the JSON dataset is unavailable, the project can still generate transparent synthetic demo data with `make demo-data`.
 
 Open:
 
@@ -53,8 +51,8 @@ Call type is inferred because the JSON dataset does not include a normalized cal
 
 The pipeline intentionally uses a hybrid, auditable approach:
 
-- Topic categorization uses a seed taxonomy with weighted phrases and call-type priors. This is easy to inspect in Q&A and works well on small datasets.
-- Sentiment uses the provided meeting-level sentiment metadata when available, normalized to a -1 to +1 score, with a weighted B2B lexicon fallback.
+- Topic categorization uses an editable taxonomy in `config/taxonomy.json` with weighted phrases and call-type priors. This is easy to inspect in Q&A and works well on small datasets.
+- Sentiment uses the provided meeting-level sentiment metadata when available, normalized to a -1 to +1 score, with a weighted B2B lexicon fallback from the same config file.
 - Additional insight signals identify churn risk, feature gaps, technical issues, escalation loops, product area, owner recommendations, and classification uncertainty.
 
 For a production version, I would add an LLM-assisted classifier only for the review queue first, calibrated against human-labeled examples, while keeping this rule-based layer as an explainability baseline.
@@ -66,7 +64,6 @@ make profile
 make real-data
 make demo-data
 make analyze
-make deck
 make clean
 ```
 
@@ -84,12 +81,21 @@ data/
     key_moment_summary.csv
 figures/              # Generated SVG charts
 docs/
-  walkthrough.md
   executive_summary.md  # Generated written findings
+  walkthrough.md
 scripts/
   profile_input.py
   prepare_real_data.py
   generate_synthetic_data.py
+config/
+  taxonomy.json          # Editable topic, product-area, and sentiment config
 src/
-  pipeline.py
+  pipeline.py            # Orchestrates the build
+  io.py                  # Input detection, call-type normalization, CSV output
+  classify.py            # Topic classifier
+  sentiment.py           # Sentiment scoring
+  signals.py             # Product/owner/risk signal enrichment
+  summaries.py           # Summary tables and insight opportunities
+  charts.py              # SVG chart renderers
+  reporting.py           # Executive summary writer
 ```

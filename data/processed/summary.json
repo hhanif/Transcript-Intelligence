@@ -1,7 +1,7 @@
 {
   "transcript_count": 100,
   "input_profile": {
-    "input_path": "/Users/harishanif/Downloads/Rubrik/data/raw/transcripts.csv",
+    "input_path": "/Users/harishanif/Downloads/Rubrik/transcript-intelligence-submission-refactored/data/raw/transcripts.csv",
     "row_count": 100,
     "original_columns": [
       "transcript_id",

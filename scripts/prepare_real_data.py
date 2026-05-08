@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_DATASET_DIR = Path("/dataset")
+DEFAULT_DATASET_DIR = ROOT / "dataset"
 OUT = ROOT / "data" / "raw" / "transcripts.csv"
 
 

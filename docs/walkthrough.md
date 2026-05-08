@@ -33,7 +33,7 @@ make all
 
 ## 2. Topic Classification
 
-I chose a hybrid taxonomy-first approach because this is a small enterprise dataset and the panel should be able to inspect why a transcript received a label.
+I chose a hybrid taxonomy-first approach because this is a small enterprise dataset.
 
 The classifier:
 
@@ -57,7 +57,7 @@ Primary outputs:
 - `data/processed/product_area_summary.csv`
 - `data/processed/key_moment_summary.csv`
 - `data/processed/classification_review_queue.csv`
-- `reports/figures/topic_distribution.svg`
+- `figures/topic_distribution.svg`
 
 ## 3. Sentiment Analysis
 
@@ -72,7 +72,7 @@ The score is normalized from -1 to +1:
 Outputs:
 
 - `data/processed/sentiment_by_call_type.csv`
-- `reports/figures/sentiment_by_call_type.svg`
+- `figures/sentiment_by_call_type.svg`
 
 ## 4. Additional Insight Signals
 
@@ -99,7 +99,7 @@ On the real dataset, the most important views are:
 
 The review queue is the answer to when I would use a heavier model. Records are flagged when the taxonomy produces no clear match, low confidence, or a narrow margin between the top two categories.
 
-For production, I would send only those rows to an LLM adjudicator that returns:
+For production, I would send only those rows to an LLM that returns:
 
 - primary and secondary topic
 - short rationale with transcript citations

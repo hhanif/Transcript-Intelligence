@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from transcript_intelligence.pipeline import (  # noqa: E402
+from transcript_intelligence.io import (  # noqa: E402
     RAW_INPUT,
     SAMPLE_INPUT,
     TEXT_COLUMN_CANDIDATES,

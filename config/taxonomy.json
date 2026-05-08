@@ -1,0 +1,188 @@
+{
+  "topics": {
+    "Detect Reliability / Incident Response": {
+      "keywords": {
+        "outage": 4,
+        "platform outage": 5,
+        "detect": 4,
+        "threat monitoring": 5,
+        "pipeline failure": 5,
+        "event ingestion": 4,
+        "dashboard down": 4,
+        "alert latency": 4,
+        "data gaps": 4,
+        "false positives": 3,
+        "latency": 3,
+        "incident": 3,
+        "sla": 3,
+        "post-mortem": 3,
+        "root cause": 3
+      },
+      "call_type_boost": {"support": 2, "internal": 2, "external": 1},
+      "why": "Captures the Detect outage, threat-monitoring visibility failures, incident response, and reliability debt that create customer and revenue risk."
+    },
+    "Comply / Audit Readiness": {
+      "keywords": {
+        "comply": 5,
+        "compliance": 1,
+        "compliance reporting": 5,
+        "soc 2": 5,
+        "iso 27001": 5,
+        "hipaa": 5,
+        "pci dss": 5,
+        "audit": 4,
+        "evidence": 3,
+        "multi-framework": 3,
+        "report formatting": 3,
+        "custom compliance": 3
+      },
+      "call_type_boost": {"external": 2, "support": 1, "internal": 1},
+      "why": "Shows where Aegis has strong demand and adoption around audit prep, compliance reporting, and Comply v2."
+    },
+    "Identity / Access Management": {
+      "keywords": {
+        "identity": 5,
+        "sso": 4,
+        "saml": 4,
+        "mfa": 4,
+        "scim": 4,
+        "ldap": 4,
+        "provisioning": 4,
+        "rbac": 3,
+        "okta": 3,
+        "access management": 4,
+        "token": 2,
+        "certificate": 2
+      },
+      "call_type_boost": {"support": 2, "external": 1, "internal": 1},
+      "why": "Identifies authentication, provisioning, and policy-management friction across customer support and roadmap discussions."
+    },
+    "Protect / Backup Recovery": {
+      "keywords": {
+        "protect": 5,
+        "backup": 5,
+        "restore": 4,
+        "recovery": 4,
+        "disaster recovery": 5,
+        "backup window": 4,
+        "granular restore": 4,
+        "data retention": 3,
+        "s3": 3,
+        "connector": 2,
+        "logvault": 3
+      },
+      "call_type_boost": {"support": 2, "external": 1, "internal": 1},
+      "why": "Separates backup, restore, connector, and performance needs from Detect and Comply work."
+    },
+    "Renewal / Commercial Risk": {
+      "keywords": {
+        "renewal": 5,
+        "churn": 5,
+        "competitive": 4,
+        "competitor": 4,
+        "vendor comparison": 4,
+        "contract": 4,
+        "pricing": 3,
+        "billing": 3,
+        "invoice": 3,
+        "overage": 3,
+        "license": 2,
+        "budget": 3,
+        "displacement": 4
+      },
+      "call_type_boost": {"external": 3, "support": 1},
+      "why": "Surfaces where reliability, pricing, or competitive pressure is affecting renewals and account health."
+    },
+    "Product Roadmap / Feature Gaps": {
+      "keywords": {
+        "feature request": 5,
+        "feature gap": 5,
+        "roadmap": 4,
+        "product roadmap": 5,
+        "api": 4,
+        "integration": 4,
+        "custom report": 4,
+        "template": 3,
+        "rate limiting": 3,
+        "pdf export": 3,
+        "siem": 3,
+        "alert tuning": 3
+      },
+      "call_type_boost": {"external": 2, "support": 1, "internal": 1},
+      "why": "Turns recurring customer asks and internal roadmap debates into product planning evidence."
+    },
+    "Customer Onboarding / Expansion": {
+      "keywords": {
+        "onboarding": 5,
+        "deployment": 4,
+        "kickoff": 4,
+        "demo": 3,
+        "early access": 4,
+        "expansion": 4,
+        "adoption": 4,
+        "cross-sell": 4,
+        "workshop": 3,
+        "business review": 3,
+        "training": 3,
+        "product feedback": 3
+      },
+      "call_type_boost": {"external": 3, "support": 1},
+      "why": "Highlights positive adoption paths, expansion motions, and feedback sessions that can become repeatable playbooks."
+    },
+    "Internal Execution / Planning": {
+      "keywords": {
+        "standup": 5,
+        "sprint": 5,
+        "planning": 4,
+        "retro": 4,
+        "all hands": 4,
+        "launch readiness": 4,
+        "deployment plan": 4,
+        "design review": 4,
+        "war room": 5,
+        "roadmap planning": 4,
+        "quarterly planning": 4
+      },
+      "call_type_boost": {"internal": 3},
+      "why": "Captures internal operating meetings where engineering, product, and GTM teams coordinate launch, reliability, and roadmap work."
+    }
+  },
+  "product_areas": {
+    "Detect / Threat Monitoring": ["detect", "threat", "alert", "pipeline", "outage", "false positive", "monitoring", "latency"],
+    "Comply / Audit Reporting": ["comply", "compliance", "soc 2", "iso 27001", "hipaa", "pci", "audit", "evidence", "reporting"],
+    "Identity / Access": ["identity", "sso", "saml", "mfa", "scim", "ldap", "provisioning", "rbac", "okta", "access"],
+    "Protect / Backup Recovery": ["protect", "backup", "restore", "recovery", "s3", "data retention", "disaster recovery", "logvault"],
+    "Commercial / Billing": ["billing", "pricing", "invoice", "contract", "renewal", "overage", "license"]
+  },
+  "sentiment": {
+    "positive": {
+      "value": 2,
+      "adoption": 2,
+      "expansion": 3,
+      "training": 1,
+      "enablement": 1,
+      "clear": 1,
+      "aligned": 2,
+      "agreed": 1,
+      "recommendation": 1,
+      "seeing value": 3
+    },
+    "negative": {
+      "outage": 4,
+      "downtime": 4,
+      "latency": 2,
+      "slow": 2,
+      "blocked": 3,
+      "confusing": 2,
+      "risk": 3,
+      "cancel": 5,
+      "competitor": 3,
+      "budget": 2,
+      "escalation": 2,
+      "bug": 2,
+      "disagreed": 2,
+      "missing": 2,
+      "at risk": 5
+    }
+  }
+}
