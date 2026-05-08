@@ -1,0 +1,4 @@
+# The core pipeline only needs the Python standard library.
+# Optional, for richer notebook work if desired:
+# pandas
+# jupyter

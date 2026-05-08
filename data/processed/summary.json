@@ -1,0 +1,68 @@
+{
+  "transcript_count": 100,
+  "input_profile": {
+    "input_path": "/Users/harishanif/Downloads/Rubrik/data/raw/transcripts.csv",
+    "row_count": 100,
+    "original_columns": [
+      "transcript_id",
+      "date",
+      "call_type",
+      "title",
+      "account_name",
+      "duration_minutes",
+      "participant_count",
+      "external_participant_count",
+      "participant_domains",
+      "provided_summary",
+      "provided_topics",
+      "provided_sentiment_label",
+      "provided_sentiment_score",
+      "key_moment_types",
+      "key_moment_texts",
+      "action_items",
+      "transcript_turn_count",
+      "transcript_text",
+      "source"
+    ],
+    "column_mapping": {
+      "transcript_id": "transcript_id",
+      "date": "date",
+      "call_type": "call_type",
+      "transcript_text": "transcript_text"
+    },
+    "missing_date_count": 0,
+    "unknown_call_type_count": 0
+  },
+  "call_type_counts": {
+    "internal": 30,
+    "support": 30,
+    "external": 40
+  },
+  "topic_count": 8,
+  "top_topic": {
+    "topic": "Comply / Audit Readiness",
+    "count": 31,
+    "pct": 0.31,
+    "avg_sentiment": 0.516,
+    "dominant_call_type": "external",
+    "example_transcript_ids": "01KQ0CAE7F064EC93F0540CA, 01KQ0DFE299AC7A74E8022CA, 01KQ1267C6AA7D9B3125FEC8",
+    "why_this_category_matters": "Shows where Aegis has strong demand and adoption around audit prep, compliance reporting, and Comply v2."
+  },
+  "lowest_sentiment_call_type": {
+    "call_type": "support",
+    "count": 30,
+    "avg_sentiment": -0.087,
+    "positive_pct": 0.067,
+    "mixed_pct": 0.333,
+    "negative_pct": 0.6
+  },
+  "top_product_area": {
+    "product_area": "Comply / Audit Reporting",
+    "count": 38,
+    "avg_sentiment": 0.53,
+    "negative_count": 3,
+    "dominant_call_type": "external",
+    "example_transcript_ids": "01KQ0DFE299AC7A74E8022CA, 01KQ0F8AFF3DA34FD4580008, 01KQ1267C6AA7D9B3125FEC8, 01KQ1DCC80852AE384C898C9"
+  },
+  "classification_review_count": 29
+}

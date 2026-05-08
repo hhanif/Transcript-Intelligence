@@ -1,0 +1,501 @@
+transcript_id,date,call_type,account_segment,source,transcript_text
+SYN-001,2026-01-05,external,Enterprise,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on integration, priority, feature request.
+Jordan: The product works, but the missing API integration limits adoption in finance.
+Casey: The account team captured the feature request and asked product to validate roadmap fit.
+Jordan: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-002,2026-01-06,internal,Enterprise,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on handoff, incident, escalation.
+Avery: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Sam: Engineering, support, and product aligned on the root cause and named a single owner.
+Avery: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-003,2026-01-07,support,Enterprise,synthetic_take_home_bootstrap,"Riley: Thanks for joining. I want to focus on blocked, export, workflow.
+Sam: The approval workflow is powerful, but permissions are confusing for regional admins.
+Riley: Support walked through the configuration and tagged the product team on the export issue.
+Sam: The most important next step is clear ownership and a timeline.
+Riley: I will summarize actions, owners, and risks in the follow-up note."
+SYN-004,2026-01-08,support,Strategic,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on setup, workflow, configuration.
+Devon: The approval workflow is powerful, but permissions are confusing for regional admins.
+Avery: Support walked through the configuration and tagged the product team on the export issue.
+Devon: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-005,2026-01-09,external,Mid-Market,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on renewal, cancel, risk.
+Avery: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Taylor: The account manager proposed an executive review and success plan before procurement starts.
+Avery: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-006,2026-01-10,external,Strategic,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on renewal, cancel, risk.
+Devon: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Casey: The account manager proposed an executive review and success plan before procurement starts.
+Devon: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-007,2026-01-11,internal,Commercial,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on trend, recommendation, insight.
+Taylor: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Jordan: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Taylor: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-008,2026-01-12,external,Enterprise,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on integration, roadmap, feature request.
+Sam: The product works, but the missing API integration limits adoption in finance.
+Avery: The account team captured the feature request and asked product to validate roadmap fit.
+Sam: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-009,2026-01-13,internal,Enterprise,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on roadmap, tradeoff, prioritization.
+Morgan: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Sam: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Morgan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-010,2026-01-14,external,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on risk, renewal, budget.
+Sam: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Casey: The account manager proposed an executive review and success plan before procurement starts.
+Sam: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-011,2026-01-15,external,Mid-Market,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on API, roadmap, integration.
+Casey: The product works, but the missing API integration limits adoption in finance.
+Morgan: The account team captured the feature request and asked product to validate roadmap fit.
+Casey: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-012,2026-01-16,internal,Enterprise,synthetic_take_home_bootstrap,"Riley: Thanks for joining. I want to focus on handoff, root cause, ownership.
+Devon: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Riley: Engineering, support, and product aligned on the root cause and named a single owner.
+Devon: The most important next step is clear ownership and a timeline.
+Riley: I will summarize actions, owners, and risks in the follow-up note."
+SYN-013,2026-01-17,support,Mid-Market,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on blocked, workflow, export.
+Jordan: The approval workflow is powerful, but permissions are confusing for regional admins.
+Taylor: Support walked through the configuration and tagged the product team on the export issue.
+Jordan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-014,2026-01-18,internal,Commercial,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on prioritization, deadline, tradeoff.
+Riley: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Morgan: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Riley: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-015,2026-01-19,internal,Commercial,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on escalation, incident, ownership.
+Morgan: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Sam: Engineering, support, and product aligned on the root cause and named a single owner.
+Morgan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-016,2026-01-20,support,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on escalation, latency, ticket.
+Morgan: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-017,2026-01-21,external,Commercial,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on API, dashboard, roadmap.
+Casey: The product works, but the missing API integration limits adoption in finance.
+Sam: The account team captured the feature request and asked product to validate roadmap fit.
+Casey: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-018,2026-01-22,internal,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on recommendation, trend, insight.
+Sam: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Jordan: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Sam: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-019,2026-01-23,support,Commercial,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on outage, SLA, latency.
+Casey: The dashboard was slow during month-end close and our team opened three tickets.
+Morgan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Casey: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-020,2026-01-24,external,Enterprise,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on value, champion, training.
+Devon: The analytics team is seeing value and wants training for two more business units.
+Casey: The CSM documented the expansion path and offered a champion enablement session.
+Devon: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-021,2026-01-25,support,Mid-Market,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on configuration, workflow, permissions.
+Taylor: The approval workflow is powerful, but permissions are confusing for regional admins.
+Avery: Support walked through the configuration and tagged the product team on the export issue.
+Taylor: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-022,2026-01-26,support,Strategic,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on outage, latency, escalation.
+Jordan: The dashboard was slow during month-end close and our team opened three tickets.
+Casey: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Jordan: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-023,2026-01-27,support,Commercial,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on downtime, latency, escalation.
+Devon: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Devon: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-024,2026-01-28,external,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on dashboard, API, integration.
+Taylor: The product works, but the missing API integration limits adoption in finance.
+Casey: The account team captured the feature request and asked product to validate roadmap fit.
+Taylor: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-025,2026-01-29,internal,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on insight, trend, product area.
+Riley: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Casey: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Riley: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-026,2026-01-30,internal,Commercial,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on prioritization, planning, tradeoff.
+Morgan: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Jordan: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-027,2026-01-31,support,Mid-Market,synthetic_take_home_bootstrap,"Riley: Thanks for joining. I want to focus on outage, escalation, latency.
+Avery: The dashboard was slow during month-end close and our team opened three tickets.
+Riley: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Avery: The most important next step is clear ownership and a timeline.
+Riley: I will summarize actions, owners, and risks in the follow-up note."
+SYN-028,2026-02-01,support,Enterprise,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on downtime, latency, SLA.
+Avery: The dashboard was slow during month-end close and our team opened three tickets.
+Taylor: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Avery: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-029,2026-02-02,external,Mid-Market,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on dashboard, priority, API.
+Sam: The product works, but the missing API integration limits adoption in finance.
+Morgan: The account team captured the feature request and asked product to validate roadmap fit.
+Sam: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-030,2026-02-03,support,Commercial,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on permissions, blocked, workflow.
+Jordan: The approval workflow is powerful, but permissions are confusing for regional admins.
+Sam: Support walked through the configuration and tagged the product team on the export issue.
+Jordan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-031,2026-02-04,external,Commercial,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on risk, renewal, adoption.
+Sam: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Devon: The account manager proposed an executive review and success plan before procurement starts.
+Sam: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-032,2026-02-05,support,Strategic,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on latency, escalation, ticket.
+Morgan: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-033,2026-02-06,support,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on latency, outage, ticket.
+Riley: The dashboard was slow during month-end close and our team opened three tickets.
+Casey: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Riley: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-034,2026-02-07,internal,Enterprise,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on capacity, planning, deadline.
+Sam: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Avery: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Sam: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-035,2026-02-08,internal,Mid-Market,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on product area, insight, customer evidence.
+Casey: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Morgan: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Casey: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-036,2026-02-09,internal,Enterprise,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on planning, roadmap, tradeoff.
+Casey: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Morgan: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Casey: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-037,2026-02-10,internal,Commercial,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on insight, recommendation, product area.
+Riley: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Casey: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Riley: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-038,2026-02-11,support,Strategic,synthetic_take_home_bootstrap,"Riley: Thanks for joining. I want to focus on export, blocked, permissions.
+Avery: The approval workflow is powerful, but permissions are confusing for regional admins.
+Riley: Support walked through the configuration and tagged the product team on the export issue.
+Avery: The most important next step is clear ownership and a timeline.
+Riley: I will summarize actions, owners, and risks in the follow-up note."
+SYN-039,2026-02-12,internal,Enterprise,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on ownership, bug, escalation.
+Taylor: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Avery: Engineering, support, and product aligned on the root cause and named a single owner.
+Taylor: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-040,2026-02-13,support,Enterprise,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on downtime, outage, latency.
+Avery: The dashboard was slow during month-end close and our team opened three tickets.
+Morgan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Avery: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-041,2026-02-14,external,Mid-Market,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on adoption, use case, expansion.
+Taylor: The analytics team is seeing value and wants training for two more business units.
+Avery: The CSM documented the expansion path and offered a champion enablement session.
+Taylor: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-042,2026-02-15,internal,Mid-Market,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on trend, product area, customer evidence.
+Jordan: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Taylor: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Jordan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-043,2026-02-16,internal,Strategic,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on handoff, incident, ownership.
+Morgan: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Devon: Engineering, support, and product aligned on the root cause and named a single owner.
+Morgan: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-044,2026-02-17,external,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on integration, dashboard, roadmap.
+Taylor: The product works, but the missing API integration limits adoption in finance.
+Jordan: The account team captured the feature request and asked product to validate roadmap fit.
+Taylor: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-045,2026-02-18,support,Strategic,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on SLA, escalation, latency.
+Morgan: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-046,2026-02-19,external,Strategic,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on champion, expansion, adoption.
+Sam: The analytics team is seeing value and wants training for two more business units.
+Avery: The CSM documented the expansion path and offered a champion enablement session.
+Sam: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-047,2026-02-20,internal,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on feedback, recommendation, customer evidence.
+Avery: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Casey: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Avery: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-048,2026-02-21,external,Mid-Market,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on risk, competitor, cancel.
+Jordan: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Taylor: The account manager proposed an executive review and success plan before procurement starts.
+Jordan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-049,2026-02-22,support,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on workflow, configuration, permissions.
+Sam: The approval workflow is powerful, but permissions are confusing for regional admins.
+Jordan: Support walked through the configuration and tagged the product team on the export issue.
+Sam: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-050,2026-02-23,support,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on escalation, ticket, downtime.
+Jordan: The dashboard was slow during month-end close and our team opened three tickets.
+Casey: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Jordan: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-051,2026-02-24,external,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on integration, dashboard, feature request.
+Sam: The product works, but the missing API integration limits adoption in finance.
+Jordan: The account team captured the feature request and asked product to validate roadmap fit.
+Sam: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-052,2026-02-25,internal,Mid-Market,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on planning, tradeoff, capacity.
+Jordan: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Sam: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Jordan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-053,2026-02-26,internal,Enterprise,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on deadline, prioritization, planning.
+Jordan: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Taylor: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Jordan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-054,2026-02-27,external,Commercial,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on budget, risk, cancel.
+Jordan: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Morgan: The account manager proposed an executive review and success plan before procurement starts.
+Jordan: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-055,2026-02-28,support,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on escalation, latency, SLA.
+Devon: The dashboard was slow during month-end close and our team opened three tickets.
+Sam: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Devon: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-056,2026-03-01,support,Enterprise,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on permissions, workflow, setup.
+Devon: The approval workflow is powerful, but permissions are confusing for regional admins.
+Sam: Support walked through the configuration and tagged the product team on the export issue.
+Devon: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-057,2026-03-02,support,Commercial,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on setup, blocked, permissions.
+Morgan: The approval workflow is powerful, but permissions are confusing for regional admins.
+Taylor: Support walked through the configuration and tagged the product team on the export issue.
+Morgan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-058,2026-03-03,external,Commercial,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on feature request, roadmap, dashboard.
+Morgan: The product works, but the missing API integration limits adoption in finance.
+Taylor: The account team captured the feature request and asked product to validate roadmap fit.
+Morgan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-059,2026-03-04,external,Commercial,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on feature request, roadmap, integration.
+Avery: The product works, but the missing API integration limits adoption in finance.
+Taylor: The account team captured the feature request and asked product to validate roadmap fit.
+Avery: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-060,2026-03-05,external,Strategic,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on dashboard, API, roadmap.
+Jordan: The product works, but the missing API integration limits adoption in finance.
+Avery: The account team captured the feature request and asked product to validate roadmap fit.
+Jordan: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-061,2026-03-06,internal,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on bug, handoff, ownership.
+Casey: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Sam: Engineering, support, and product aligned on the root cause and named a single owner.
+Casey: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-062,2026-03-07,internal,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on deadline, roadmap, planning.
+Avery: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Casey: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Avery: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-063,2026-03-08,external,Mid-Market,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on adoption, expansion, champion.
+Riley: The analytics team is seeing value and wants training for two more business units.
+Taylor: The CSM documented the expansion path and offered a champion enablement session.
+Riley: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-064,2026-03-09,external,Enterprise,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on roadmap, API, priority.
+Taylor: The product works, but the missing API integration limits adoption in finance.
+Casey: The account team captured the feature request and asked product to validate roadmap fit.
+Taylor: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-065,2026-03-10,external,Strategic,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on use case, value, training.
+Jordan: The analytics team is seeing value and wants training for two more business units.
+Morgan: The CSM documented the expansion path and offered a champion enablement session.
+Jordan: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-066,2026-03-11,external,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on feature request, roadmap, dashboard.
+Casey: The product works, but the missing API integration limits adoption in finance.
+Sam: The account team captured the feature request and asked product to validate roadmap fit.
+Casey: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-067,2026-03-12,support,Strategic,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on workflow, setup, blocked.
+Riley: The approval workflow is powerful, but permissions are confusing for regional admins.
+Devon: Support walked through the configuration and tagged the product team on the export issue.
+Riley: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-068,2026-03-13,internal,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on capacity, deadline, tradeoff.
+Riley: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Jordan: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Riley: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-069,2026-03-14,support,Mid-Market,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on latency, escalation, outage.
+Jordan: The dashboard was slow during month-end close and our team opened three tickets.
+Casey: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Jordan: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-070,2026-03-15,support,Commercial,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on ticket, downtime, latency.
+Casey: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Casey: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-071,2026-03-16,internal,Commercial,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on escalation, incident, handoff.
+Riley: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Devon: Engineering, support, and product aligned on the root cause and named a single owner.
+Riley: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-072,2026-03-17,internal,Enterprise,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on prioritization, capacity, roadmap.
+Jordan: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Sam: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Jordan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-073,2026-03-18,support,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on latency, ticket, SLA.
+Casey: The dashboard was slow during month-end close and our team opened three tickets.
+Jordan: Support confirmed the incident, linked the SLA report, and promised a postmortem.
+Casey: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-074,2026-03-19,internal,Commercial,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on recommendation, product area, customer evidence.
+Devon: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Sam: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Devon: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-075,2026-03-20,internal,Commercial,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on escalation, root cause, ownership.
+Morgan: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Devon: Engineering, support, and product aligned on the root cause and named a single owner.
+Morgan: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-076,2026-03-21,external,Strategic,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on priority, roadmap, integration.
+Avery: The product works, but the missing API integration limits adoption in finance.
+Devon: The account team captured the feature request and asked product to validate roadmap fit.
+Avery: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-077,2026-03-22,external,Strategic,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on budget, risk, cancel.
+Morgan: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Jordan: The account manager proposed an executive review and success plan before procurement starts.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-078,2026-03-23,internal,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on ownership, root cause, incident.
+Casey: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Jordan: Engineering, support, and product aligned on the root cause and named a single owner.
+Casey: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-079,2026-03-24,external,Mid-Market,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on champion, adoption, use case.
+Riley: The analytics team is seeing value and wants training for two more business units.
+Sam: The CSM documented the expansion path and offered a champion enablement session.
+Riley: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-080,2026-03-25,external,Strategic,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on use case, value, training.
+Devon: The analytics team is seeing value and wants training for two more business units.
+Casey: The CSM documented the expansion path and offered a champion enablement session.
+Devon: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-081,2026-03-26,external,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on adoption, use case, expansion.
+Riley: The analytics team is seeing value and wants training for two more business units.
+Sam: The CSM documented the expansion path and offered a champion enablement session.
+Riley: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-082,2026-03-27,external,Commercial,synthetic_take_home_bootstrap,"Morgan: Thanks for joining. I want to focus on API, integration, feature request.
+Devon: The product works, but the missing API integration limits adoption in finance.
+Morgan: The account team captured the feature request and asked product to validate roadmap fit.
+Devon: The most important next step is clear ownership and a timeline.
+Morgan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-083,2026-03-28,internal,Enterprise,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on product area, customer evidence, insight.
+Sam: Product managers reviewed recurring feedback and found repeated friction in onboarding.
+Jordan: The team grouped customer evidence by product area and created recommendations for the next sprint.
+Sam: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-084,2026-03-29,support,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on setup, workflow, configuration.
+Morgan: The approval workflow is powerful, but permissions are confusing for regional admins.
+Sam: Support walked through the configuration and tagged the product team on the export issue.
+Morgan: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-085,2026-03-30,external,Commercial,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on cancel, competitor, renewal.
+Devon: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Casey: The account manager proposed an executive review and success plan before procurement starts.
+Devon: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-086,2026-03-31,external,Enterprise,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on value, adoption, champion.
+Jordan: The analytics team is seeing value and wants training for two more business units.
+Taylor: The CSM documented the expansion path and offered a champion enablement session.
+Jordan: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-087,2026-04-01,internal,Mid-Market,synthetic_take_home_bootstrap,"Riley: Thanks for joining. I want to focus on handoff, bug, escalation.
+Devon: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Riley: Engineering, support, and product aligned on the root cause and named a single owner.
+Devon: The most important next step is clear ownership and a timeline.
+Riley: I will summarize actions, owners, and risks in the follow-up note."
+SYN-088,2026-04-02,support,Commercial,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on setup, workflow, configuration.
+Taylor: The approval workflow is powerful, but permissions are confusing for regional admins.
+Jordan: Support walked through the configuration and tagged the product team on the export issue.
+Taylor: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-089,2026-04-03,internal,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on escalation, root cause, handoff.
+Devon: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Jordan: Engineering, support, and product aligned on the root cause and named a single owner.
+Devon: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-090,2026-04-04,external,Strategic,synthetic_take_home_bootstrap,"Sam: Thanks for joining. I want to focus on priority, integration, feature request.
+Riley: The product works, but the missing API integration limits adoption in finance.
+Sam: The account team captured the feature request and asked product to validate roadmap fit.
+Riley: The most important next step is clear ownership and a timeline.
+Sam: I will summarize actions, owners, and risks in the follow-up note."
+SYN-091,2026-01-05,external,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on roadmap, dashboard, feature request.
+Sam: The product works, but the missing API integration limits adoption in finance.
+Jordan: The account team captured the feature request and asked product to validate roadmap fit.
+Sam: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-092,2026-01-06,internal,Enterprise,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on roadmap, tradeoff, planning.
+Casey: The planning discussion centered on tradeoffs between roadmap commitments and reliability work.
+Taylor: Leads agreed to reserve capacity for customer-impacting issues and publish the decision log.
+Casey: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-093,2026-01-07,external,Strategic,synthetic_take_home_bootstrap,"Avery: Thanks for joining. I want to focus on use case, value, adoption.
+Devon: The analytics team is seeing value and wants training for two more business units.
+Avery: The CSM documented the expansion path and offered a champion enablement session.
+Devon: The most important next step is clear ownership and a timeline.
+Avery: I will summarize actions, owners, and risks in the follow-up note."
+SYN-094,2026-01-08,external,Strategic,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on training, use case, value.
+Taylor: The analytics team is seeing value and wants training for two more business units.
+Devon: The CSM documented the expansion path and offered a champion enablement session.
+Taylor: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-095,2026-01-09,internal,Strategic,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on ownership, bug, root cause.
+Riley: Internal teams disagreed on ownership while a high-priority customer escalation aged.
+Devon: Engineering, support, and product aligned on the root cause and named a single owner.
+Riley: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."
+SYN-096,2026-01-10,external,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on cancel, budget, risk.
+Riley: The renewal is at risk because budget is tight and a competitor promised faster onboarding.
+Jordan: The account manager proposed an executive review and success plan before procurement starts.
+Riley: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-097,2026-01-11,external,Commercial,synthetic_take_home_bootstrap,"Taylor: Thanks for joining. I want to focus on API, roadmap, integration.
+Avery: The product works, but the missing API integration limits adoption in finance.
+Taylor: The account team captured the feature request and asked product to validate roadmap fit.
+Avery: The most important next step is clear ownership and a timeline.
+Taylor: I will summarize actions, owners, and risks in the follow-up note."
+SYN-098,2026-01-12,external,Strategic,synthetic_take_home_bootstrap,"Casey: Thanks for joining. I want to focus on expansion, champion, value.
+Morgan: The analytics team is seeing value and wants training for two more business units.
+Casey: The CSM documented the expansion path and offered a champion enablement session.
+Morgan: The most important next step is clear ownership and a timeline.
+Casey: I will summarize actions, owners, and risks in the follow-up note."
+SYN-099,2026-01-13,external,Mid-Market,synthetic_take_home_bootstrap,"Jordan: Thanks for joining. I want to focus on priority, API, dashboard.
+Morgan: The product works, but the missing API integration limits adoption in finance.
+Jordan: The account team captured the feature request and asked product to validate roadmap fit.
+Morgan: The most important next step is clear ownership and a timeline.
+Jordan: I will summarize actions, owners, and risks in the follow-up note."
+SYN-100,2026-01-14,external,Mid-Market,synthetic_take_home_bootstrap,"Devon: Thanks for joining. I want to focus on priority, API, dashboard.
+Taylor: The product works, but the missing API integration limits adoption in finance.
+Devon: The account team captured the feature request and asked product to validate roadmap fit.
+Taylor: The most important next step is clear ownership and a timeline.
+Devon: I will summarize actions, owners, and risks in the follow-up note."

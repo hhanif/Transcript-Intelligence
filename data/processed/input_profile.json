@@ -1,0 +1,33 @@
+{
+  "input_path": "/Users/harishanif/Downloads/Rubrik/data/raw/transcripts.csv",
+  "row_count": 100,
+  "original_columns": [
+    "transcript_id",
+    "date",
+    "call_type",
+    "title",
+    "account_name",
+    "duration_minutes",
+    "participant_count",
+    "external_participant_count",
+    "participant_domains",
+    "provided_summary",
+    "provided_topics",
+    "provided_sentiment_label",
+    "provided_sentiment_score",
+    "key_moment_types",
+    "key_moment_texts",
+    "action_items",
+    "transcript_turn_count",
+    "transcript_text",
+    "source"
+  ],
+  "column_mapping": {
+    "transcript_id": "transcript_id",
+    "date": "date",
+    "call_type": "call_type",
+    "transcript_text": "transcript_text"
+  },
+  "missing_date_count": 0,
+  "unknown_call_type_count": 0
+}

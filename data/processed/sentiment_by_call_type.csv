@@ -1,0 +1,4 @@
+call_type,count,avg_sentiment,positive_pct,mixed_pct,negative_pct
+external,40,0.426,0.525,0.275,0.2
+internal,30,0.212,0.3,0.433,0.267
+support,30,-0.087,0.067,0.333,0.6
