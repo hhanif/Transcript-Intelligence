@@ -5,7 +5,7 @@ PYTHON ?= python3
 all: prepare-data analyze
 
 prepare-data:
-	@if [ -d /Users/harishanif/Downloads/Rubrik/dataset ]; then \
+	@if [ -d /dataset ]; then \
 		$(PYTHON) scripts/prepare_real_data.py; \
 	elif [ -f data/raw/transcripts.csv ]; then \
 		echo "Using provided data/raw/transcripts.csv"; \
